@@ -10,6 +10,8 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            // Les beaux malaises
+            Console.WriteLine("Hello World!");
         }
     }
 }
